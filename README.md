@@ -1,15 +1,15 @@
-# Gongzhao6666.github.io  
+# Gongzhao6666.github.io    
 <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
+<html lang="zh-CN">  
+<head>  
+    <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>龚照的小主页</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        * {  
+            margin: 0;  
+            padding: 0;  
+            box-sizing: border-box;  
             font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif;
         }
 
@@ -175,7 +175,7 @@
 
             <div class="section">
                 <h3>💤 擅长的事</h3>
-                <p>擅长睡觉、品尝美食，还特别擅长和 F 某出去玩！</p>
+                <p>擅长睡觉、品尝美食</p>
             </div>
 
             <div class="section">
@@ -190,7 +190,7 @@
 
             <div class="section">
                 <h3>⚽ 喜欢的球队</h3>
-                <p>上海海港（呀不对，是上港！）</p>
+                <p>拜仁，巴萨，上海海港（呀不对，是上港！），武汉三镇</p>
             </div>
 
             <div class="section">
@@ -237,7 +237,7 @@
 
             <div class="section">
                 <h3>⚽ Favorite Football Team</h3>
-                <p>Shanghai Port (Oops, it's Shanghai SIPG!)</p>
+                <p>Bayern,FCB,Shanghai Port (Oops, it's Shanghai SIPG!),WH</p>
             </div>
 
             <div class="section">
